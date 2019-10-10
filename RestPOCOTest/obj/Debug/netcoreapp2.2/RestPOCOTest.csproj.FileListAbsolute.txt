@@ -1,0 +1,16 @@
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\RestPOCOTest.deps.json
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\RestPOCOTest.runtimeconfig.json
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\RestPOCOTest.runtimeconfig.dev.json
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\RestPOCOTest.dll
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\RestPOCOTest.pdb
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.RazorAssemblyInfo.cache
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.RazorAssemblyInfo.cs
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.AssemblyInfoInputs.cache
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.AssemblyInfo.cs
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.RazorTargetAssemblyInfo.cache
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.dll
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\obj\Debug\netcoreapp2.2\RestPOCOTest.pdb
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\efpt.config.json
+C:\Users\YMYKHAILOV\source\repos\RestPOCOTest\RestPOCOTest\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
